@@ -42,7 +42,7 @@ public class GPathTestConfig {
 
         responseSpec = new ResponseSpecBuilder()
                 .expectStatusCode(200)
-                .expectResponseTime(lessThan(1000L))  // Fore every response verify status code AND response time
+                .expectResponseTime(lessThan(2000L))  // Fore every response verify status code AND response time
                 .build();
 
         RestAssured.responseSpecification = responseSpec;

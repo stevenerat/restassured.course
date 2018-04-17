@@ -10,6 +10,6 @@ public class AuthTests {
     public static void setup() {
 
         // proxy to fiddler
-        RestAssured.proxy("localhost", 8888);
+        //RestAssured.proxy("localhost", 8888);
     }
 }

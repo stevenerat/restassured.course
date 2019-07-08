@@ -67,25 +67,25 @@
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-server</artifactId>
-            <version>9.3.24</version>
+            <version>9.3.27.v20190418</version>
             <scope>test</scope>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-webapp</artifactId>
-            <version>9.3.9.M1</version>
+            <version>9.3.27.v20190418</version>
             <scope>test</scope>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-jndi</artifactId>
-            <version>9.3.9.M1</version>
+            <version>9.3.27.v20190418</version>
             <scope>test</scope>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-plus</artifactId>
-            <version>9.3.9.M1</version>
+            <version>9.3.27.v20190418</version>
             <scope>test</scope>
         </dependency>
         <dependency>
